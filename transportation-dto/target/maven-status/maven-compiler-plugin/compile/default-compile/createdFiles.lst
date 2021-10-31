@@ -1,0 +1,15 @@
+com\iter\transportation\dto\TravelerPricingDto$FareDetailsBySegmentDto.class
+com\iter\transportation\dto\FlightOfferSearchDto.class
+com\iter\transportation\dto\AddressDto.class
+com\iter\transportation\dto\GeoCodeDto.class
+com\iter\transportation\dto\LocationDto.class
+com\iter\transportation\dto\TravelerPricingDto$IncludedCheckedBagsDto.class
+com\iter\transportation\dto\ItineraryDto.class
+com\iter\transportation\dto\PricingOptionsDto.class
+com\iter\transportation\dto\ItineraryDto$AircraftDto.class
+com\iter\transportation\dto\ItineraryDto$AirportInfoDto.class
+com\iter\transportation\dto\ItineraryDto$SearchSegmentDto.class
+com\iter\transportation\dto\SearchPriceDto$FeeDto.class
+com\iter\transportation\dto\SearchPriceDto.class
+com\iter\transportation\dto\TravelerPricingDto.class
+com\iter\transportation\dto\ItineraryDto$Co2EmissionsDto.class

@@ -1,0 +1,5 @@
+com\iter\accommodation\dto\Hotel.class
+com\iter\accommodation\dto\HotelsSearchDto.class
+com\iter\accommodation\dto\LocationDto.class
+com\iter\accommodation\dto\TimePeriod.class
+com\iter\accommodation\dto\Provider.class
